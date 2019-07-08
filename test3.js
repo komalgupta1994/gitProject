@@ -1,0 +1,1 @@
+console.log('add new file for check merge command without conflict');
